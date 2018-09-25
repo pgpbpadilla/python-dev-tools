@@ -7,7 +7,9 @@
 
 # To Do
 
-Should:
+- Publish to Public Docker Registry
+
+The image should:
 
 - build docker images
 - run Docker images
